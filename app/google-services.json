@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399870591393",
+    "project_id": "naumo-a6a13",
+    "storage_bucket": "naumo-a6a13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399870591393:android:b2f89ceb3028a7fc768be0",
+        "android_client_info": {
+          "package_name": "com.app.naumo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCZPZLKXtw2PK3BVo1a1e5ZPbZ21BH1gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
